@@ -1,0 +1,14 @@
+$site-bg-color: #000;
+$text-color:white;
+$site_font_family: 'Josefin Sans', sans-serif;
+$site-font-normal: 13px;
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100;200;300;400;500;600&display=swap');
+html {
+}
+body {
+    font-family: $site_font_family;
+    font-size: $site-font-normal;
+}
+p {
+    font-weight: 300;
+}
